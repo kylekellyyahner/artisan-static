@@ -24,28 +24,10 @@ Image - Jigsaw logo
 
 ![Jigsaw logo](https://cloud.githubusercontent.com/assets/357312/25055001/5603687e-212e-11e7-8fad-0b33dbf7fb71.png)
 
-- Top-level item 1
-    - Nested item
-    - Nested item
-- Top-level item 2
-    - Nested item
-    - Nested item
-- Top-level item 3
-    - Nested item
-    - Nested item
-
-1. Top-level item 1
-    1. Nested item
-    2. Nested item
-2. Top-level item 2
-    1. Nested item
-    2. Nested item
-3. Top-level item 3
-    1. Nested item
-    2. Nested item
+- T
 
 Term
-: Description of the term
+: I mean what is a term anyways?
 : Another description of the term
 
 Term
